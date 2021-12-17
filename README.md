@@ -1,4 +1,5 @@
-<h2 align="center">Olá, meu nome é Renan Abreu! 👋</h2>
+<h2 align="center">Olá, meu nome é Renan Abreu!<br> Sinta-se bem vindo ao meu perfil!</h2>
+
 
 <div align="center">
   <a href="https://github.com/the-abreu">
