@@ -16,7 +16,14 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 </div>
+
+ <div align="center">
+    ![bb35fba5686ebed324bcf5399181bf4b192b9811_hq](https://user-images.githubusercontent.com/96211934/185808203-5d30bf21-8e01-47ca-8c0a-7bbad766500f.gif)
+  </div>
   
+  <div align="center">
+    <img alt="Pokemon-pic" height="165" style="border-radius:50px;" src="https://media.discordapp.net/attachments/745503113812901909/1010996849685041232/bb35fba5686ebed324bcf5399181bf4b192b9811_hq.gif">
+  </div>
   
   <div align="center">
     <img alt="Pokemon-pic" height="165" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/CAQiyfgVdEAYfxmZlBmFHwUiFsl-mHshQ19q_DIVR-A/https/img1.picmix.com/output/stamp/normal/0/9/0/4/1604090_a14a5.gif">
